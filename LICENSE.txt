@@ -1,0 +1,16 @@
+UnkiSocialManager
+Copyright (c) 2026 UnkiSoftware. All rights reserved.
+
+UnkiSocialManager is proprietary software developed and published by
+UnkiSoftware. UnkiSoftware is operated by Vitalik Korjenevich. The source code
+is not public and is not covered by this repository.
+
+Use of the app is governed by the Terms of Service:
+https://unkisocialmanager.pp.ua/terms/
+
+This repository only distributes release files (installers, update metadata,
+checksums and third-party notices) and this documentation. No license to the
+app's source code is granted.
+
+Open-source components shipped with the app keep their own licenses; see
+THIRD_PARTY_NOTICES.txt attached to each release.
